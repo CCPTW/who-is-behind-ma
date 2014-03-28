@@ -13,11 +13,13 @@ body {
 .heading:after {
   content: "";
   display: block;
-  clear: both; }
+  clear: both;
+  height: 10px;  }
 
 h1.title {
-  font-size: 80px;
+  font-size: 38px;
   font-weight: bold;
+  line-height: 70px;
   margin: 0;
   display: block;
   float: left; }
